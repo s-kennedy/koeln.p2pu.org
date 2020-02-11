@@ -1,12 +1,10 @@
 topnav:
 - url: /
-  title: Home
+  title: Startseite
 - url: /about
-  title: About
+  title: Über uns
 - url: /facilitate
-  title: Facilitate
-
+  title: Wollen Sie selbst ein Lernteam organisieren?
 org:
-    url: https://hog.warts/
-    logo_url: /assets/img/team-logo.png
-
+  url: https://hog.warts/
+  logo_url: /assets/img/team-logo.png

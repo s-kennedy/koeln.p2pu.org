@@ -1,13 +1,16 @@
 ---
 layout: index
-header_text: P2PU & the Ministry of Magic
+header_text: Stadtbibliothek Köln & P2PU
 header_video: https://www.youtube.com/embed/bQqmIS7WQa8
-hero: |
-  ## Learning circles are coming to Hogwarts!
+hero: 'Lernteams - eine neuartige Lernmethode in der Stadtbibliothek Köln
 
-  Join your neighbors at the library to learn something together. Learning circles meet weekly for 6-8 weeks, and are free to join.
-search_title: Learning circles at Hogwarts
-image_attribution: "image CC-BY-SA [Breakfast221](https://commons.wikimedia.org/wiki/User:Breakfast221)"
+
+  Schließen Sie sich mit anderen Interessierten in der Bibliothek zu einer kleinen
+  Lerngruppe zusammen, um gemeinsam einen Online-Kurs zu absolvieren! Die moderierten
+  Lernteams treffen sich einmal pro Woche für 6 bis 8 Wochen und können kostenlos
+  besucht werden.'
+search_title: Lernteams in der Stadtbibliothek Köln
+image_attribution: ''
 bundles:
 - style
 - index

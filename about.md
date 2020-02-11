@@ -1,52 +1,90 @@
 ---
-title: About
-about: |
-    Learning circles were started by Peer 2 Peer University (P2PU) and Chicago Public Library in 2015. Since then, this model of peer learning has spread to libraries and community centers across North America, East Africa, and Europe. This year, The Ministry of Magic is proud to partner with P2PU to bring learning circles to Hogwarts.
-faq_title: Frequently asked questions
+title: Über uns
+about: 'Das Konzept der Lernteams (ursprünglich: Learning Circles) wurde von der Peer
+  2 Peer University (P2PU) entwickelt. Mittlerweile gibt es Lernteams in Nordamerika,
+  Ostafrika, Asien und in Teilen Europas - und seit einiger Zeit auch in der Stadtbibliothek
+  Köln.
+
+
+  Das EU-Projekt Learning Circles in Libraries greift dieses Thema auf und wird von
+  der Europäischen Union im Rahmen des Programms Erasmus+ gefördert.'
+faq_title: Häufige Fragen
 faq:
-- q: What is a learning circle?
-  a: |
-        A learning circle is a group of people who meet to learn something together. Learning circles are:
-        - Open to the public
-        - Free for participants
-        - Recurring (generally between 6-8 times)
-        
-        Additionally, learning circles are led by a facilitator, rather than a teacher. This means that the person who is organizing your learning circle is not an expert in the subject that you are learning. They are there to help guide the group through the course and ensure that the meeting space is ready each week.
+- q: Was ist ein Lernteam?
+  a: 'Ein Lernteam besteht aus einer Gruppe von Menschen, die sich treffen, um gemeinsam
+    etwas zu lernen. Lernteams sind:
 
-- q: What learning materials can be used in learning circles?
-  a: |
-    Most learning circles use a free, online course as the basis of study. While P2PU creates some courses, the vast majority of materials come from other organizations around the web. You are welcome to use any course you would like for a learning circle, so long as it is free for participants and not in violation of the terms of service of the course provider. A complete list of courses currently being used by learning circle facilitators is available at https://www.p2pu.org/courses/
-
-- q: What personal information do I need to provide to participate?
-  a: |
-    Learning circle participants do not need to create an account with Peer 2 Peer University. You can sign up for a learning circle with your name and phone number and/or email address. This information is only used by your facilitator to contact you. If you would like to create a learning circle, then you need to create a P2PU account. Additional questions related to user privacy can be answered by contacting support@p2pu.org.
-
-- q: Does it cost money to participate in a learning circle?
-  a: No, learning circles are free to participate in.
+    offen für alle
 
 
-- q: Do I get any certificate at the end of the learning circle?
-  a: P2PU is not a university and does not offer any accredited degree certificates. Some of the online courses that are used in learning circles have degree and/or certificates, but many of these are not free. If you would like a certificate demonstrating the completion of your learning circle, this is possible if you speak with your facilitator.
-
-- q: What is Peer 2 Peer University?
-  a: P2PU is a 501c3 non-profit organization registered in California in the United States, with team members in the US, Canada, and South Africa. The mission of the organization is to create equitable, empowering, and liberating alternatives to mainstream higher education. The majority of funding for P2PU comes from philanthropic and public sources including Institute of Museum and Library Services, Open Society Foundations, Siegel Family Endowment, and Knight Foundation. P2PU also accepts donations and offers a variety of services to organizations that are looking to develop thriving nonformal education communities.
-
-- q: Who funds this project?
-  a: |
-    This project is supported by the European Union Erasmus+ program. “Learning circles in libraries is a 3-year project (2018-2021) led by Fundacja Rozwoju Społeczeństwa Informacyjnego in Poland, with additional partners in Germany (Stadtbibliothek Kőln), Romania (Fundatia Progress), Portugal (Biblioteca Lucio Craveiro da Silva), and Finland (Suomen eOppimiskeskus ry).
-
-    The aim of the project is to facilitate access to useful online learning resources for adults using the learning circle methodology developed by P2PU. Together we are:
-
-    - Conducting background research in 2018-19, including writing a white paper on adult learning and scanning for high quality online learning resources in each partner’s language.
-    - Translating and adapting the learning circle methodology and software in 2019-20.
-    - Training up to 25 learning circle organizers in 2020, who will lead facilitation workshops in each country.
-    - Running a series of facilitation training workshops 2021, leading to learning circles happening in libraries across each of the partner countries.
+    kostenfrei für die Teilnehmenden
 
 
-- q: Can anybody start and facilitate a learning circle?
-  a: |
-    Yes! Learning circles are free to create, all you need is an account with P2PU. We have begun to create some [LANGUAGE]-language resources for facilitators, which you can view and contribute to [here](/facilitate)
+    bestehen in der Regel aus 6 bis 8 Treffen
 
+
+
+
+    Darüber hinaus werden Lernteams nicht von einer Lehrkraft, sondern von einer/einem
+    Moderator*in geleitet. Dies bedeutet, dass die Person, die euer Lernteam moderiert
+    und koordiniert, kein/e Experte*in für das Fach ist, das ihr gerade lernt. Sie
+    ist da, um die Gruppe durch den Kurs zu führen und sicherzustellen, dass der Ort,
+    an dem ihr euch trefft, jede Woche zur Verfügung steht.'
+- q: Welche Lernmaterialien können in Lernteams verwendet werden?
+  a: Die meisten Lernteams verwenden einen kostenlosen Online-Kurs als Grundlage für
+    das Lernen. Während P2PU einige Kurse erstellt, stammen die meisten Materialien
+    von anderen Organisationen im Internet. Ihr könnt gerne einen beliebigen Kurs
+    für ein Lernteam nutzen, sofern dies für die Teilnehmenden kostenlos ist und nicht
+    gegen die Nutzungsbedingungen der/des Kursanbieterin/s verstößt. Eine Liste geprüfter
+    Kurse, die derzeit von Lernteam-Moderator*innen genutzt werden können, findet
+    ihr auf unserer Kurs-Seite.
+- q: Welche persönlichen Daten muss ich angeben, um teilnehmen zu können?
+  a: Teilnehmende des Lernteams müssen kein Konto bei der Peer 2 Peer University erstellen.
+    Du kannst dich mit deinem Namen und deiner Telefonnummer und/oder E-Mail-Adresse
+    für ein Lernteam anmelden. Diese Informationen werden nur von deinem/r Lernteam-Moderator/in
+    verwendet, um dich zu kontaktieren. Wenn du ein Lernteam moderieren möchtest,
+    musst du ein P2PU-Konto erstellen. Zusätzliche Fragen zum Datenschutz der Nutzenden
+    können unter support@p2pu.org beantwortet werden (zur Zeit nur auf Englisch).
+- q: Kostet es Geld, an einem Lernteam teilzunehmen?
+  a: Nein, an den Lernteams kann kostenlos teilgenommen werden.
+- q: Bekomme ich am Ende des letzten Lernteam-Treffens ein Zertifikat?
+  a: P2PU ist keine wirkliche Universität und bietet keine akkreditierten Abschlüsse
+    an. Einige der Online-Kurse, die von Lernteams verwendet werden, vergeben einen
+    Abschluss und/oder ein Zertifikat, aber viele davon sind nicht kostenlos. Wenn
+    Du ein Zertifikat wünschst, das den Abschluss (die Teilnahme) eines Lernteams
+    nachweist, ist dies möglich, wenn du mit deinem/r Moderator/in sprichst.
+- q: Was ist die Peer 2 Peer University?
+  a: P2PU ist eine gemeinnützige Organisation, die in Kalifornien registriert ist
+    und Mitglieder in den USA, in Kanada und Südafrika hat. Das Ziel der Organisation
+    ist es, gleichberechtigte, leistungsfähige und freie Alternativen zur allgemeinen
+    (Hochschul-)Bildung zu schaffen.
+- q: ''
+  a: ''
+- q: Worum handelt es sich bei diesem Projekt?
+  a: "Das EU-Projekt Learning Circles in Libraries wird von der Europäischen Union\
+    \ im Rahmen des Programms Erasmus+ von 2018 bis 2021 gefördert. Unter der Leitung\
+    \ der FRSI (Information Society Development Foundation) in Warschau beteiligen\
+    \ sich neben der Stadtbibliothek Köln folgende Institutionen am Projekt: P2PU,\
+    \ die Biblioteca Lúcio Craveiro da Silva in Braga (Portugal), die Progressfoundation\
+    \ in Bukarest und die Association of Finnish eLearning Centres.\n\nZiel ist es,\
+    \ in diesen Ländern die von P2PU entwickelte Lernteam-Methode einzuführen, Bibliothekar*innen\
+    \ als Lernteam-Moderator*innen auszubilden und die nützlichsten E-Learning Angebote\
+    \ in den jeweiligen Ländern zu prüfen, auszuwählen und auf einer gemeinsamen Plattform\
+    \ zu präsentieren. So soll die Idee des sozialen Lernens in jeder Lebensphase\
+    \ gefördert werden. \n\nFolgende Aufgaben gehören dazu: \nHintergrundrecherche\
+    \ in den Jahren 2018-19, einschließlich des Verfassens eines Whitepapers zur Erwachsenenbildung\
+    \ und des Ermittelns von qualitativ hochwertigen Online-Lernressourcen in der\
+    \ Sprache der einzelnen Partner.\n\nÜbersetzung und Anpassung der Lernteam-Methodik\
+    \ und -Software in den Jahren 2019-20.\n\nAusbildung von bis zu 25 Lernteam-Organisator*innen\
+    \ im Jahr 2020, die als Multiplikator*innen in jedem Land Trainingsworkshops durchführen\
+    \ werden\n\nDurchführung einer Reihe von Schulungsworkshops für neue Lernteammoderator*innen\
+    \ im Jahr 2021, um in jedem der Partnerländer Lernteams in Bibliotheken anbieten\
+    \ zu können."
+- q: Kann jeder ein Lernteam organisieren und moderieren?
+  a: Ja! Lernteams können ohne Absprache eingerichtet werden, alles was Sie benötigen,
+    ist ein Nutzerkonto bei P2PU. Wir haben damit begonnen, einige deutschsprachige
+    Ressourcen für Moderator*innen zu erstellen, die Sie hier einsehen und zu denen
+    Sie beitragen können.
 layout: about
 bundles:
 - style

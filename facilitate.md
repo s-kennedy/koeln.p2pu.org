@@ -1,21 +1,21 @@
 ---
-title: Facilitate
-welcome: |
-    (Partner name) is bringing learning circles to (city/country) in 2020! 
-
-    Learning circles are free, interest-driven study groups that are led by a facilitator. The facilitator does not have to be an expert in the subject, so with a little practice and training, anybody can facilitate.
-
-    If you’re interested in participating, explore the resources below and contact us to get involved!
-resources_title: Facilitator resources
+title: Wollen Sie selbst ein Lernteam organisieren?
+welcome: "Lernteams sind kostenlose, moderierte Lerngruppen zu einem bestimmten Thema.\
+  \ Die moderierende Person muss keine Expertise auf dem Gebiet besitzen, so dass\
+  \ jeder mit ein wenig Übung und Training die Lernteams begleiten kann. \n\nWenn\
+  \ Sie daran interessiert sind, ein Lernteam durchzuführen, schauen Sie sich einfach\
+  \ die unten stehenden Ressourcen an und kontaktieren Sie uns wenn Sie mitmachen\
+  \ möchten."
+resources_title: Moderationsressourcen
 resources:
-- title: Courses for learning circles
+- title: Kurse für Lernteams
   image: /assets/img/courses.gif
   url: /courses
-- title: Facilitator forum
+- title: Moderatorenforum
   image: /assets/img/discourse.png
   url: https://community.p2pu.org
   tag: forum
-- title: Other facilitator resources (in English)
+- title: Weitere Moderationsressourcen (auf englisch)
   image: /assets/img/p2pu.jpeg
   url: https://www.p2pu.org/en/facilitate
 layout: facilitate
