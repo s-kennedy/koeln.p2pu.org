@@ -1,12 +1,12 @@
 socials:
 - text: Instagram
-  url: https://www.instagram.com/p2puniversity/
+  url: https://www.instagram.com/stbibkoeln/
   icon_class: fa fa-instagram
 - text: Twitter
-  url: https://twitter.com/p2pu
+  url: https://twitter.com/stbibkoeln
   icon_class: fa fa-twitter
 - text: Facebook
-  url: https://www.facebook.com/P2PUniversity
+  url: https://www.facebook.com/Stadtbibliothek.Koeln
   icon_class: fa fa-facebook
 license: Sofern nicht anders angegeben, sind alle Materialien auf dieser Website unter
   CC BY-SA 4.0 lizenziert.
