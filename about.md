@@ -11,19 +11,13 @@ about: 'Das Konzept der Lernteams (ursprünglich: Learning Circles) wurde von de
 faq_title: Häufige Fragen
 faq:
 - q: Was ist ein Lernteam?
-  a: 'Ein Lernteam besteht aus einer Gruppe von Menschen, die sich treffen, um gemeinsam
+  a: |
+    Ein Lernteam besteht aus einer Gruppe von Menschen, die sich treffen, um gemeinsam
     etwas zu lernen. Lernteams sind:
 
-    offen für alle
-
-
-    kostenfrei für die Teilnehmenden
-
-
-    bestehen in der Regel aus 6 bis 8 Treffen
-
-
-
+    - offen für alle
+    - kostenfrei für die Teilnehmenden
+    - bestehen in der Regel aus 6 bis 8 Treffen
 
     Darüber hinaus werden Lernteams nicht von einer Lehrkraft, sondern von einer/einem
     Moderator*in geleitet. Dies bedeutet, dass die Person, die euer Lernteam moderiert
@@ -71,13 +65,13 @@ faq:
     \ als Lernteam-Moderator*innen auszubilden und die nützlichsten E-Learning Angebote\
     \ in den jeweiligen Ländern zu prüfen, auszuwählen und auf einer gemeinsamen Plattform\
     \ zu präsentieren. So soll die Idee des sozialen Lernens in jeder Lebensphase\
-    \ gefördert werden. \n\nFolgende Aufgaben gehören dazu: \nHintergrundrecherche\
+    \ gefördert werden. \n\nFolgende Aufgaben gehören dazu: \n- Hintergrundrecherche\
     \ in den Jahren 2018-19, einschließlich des Verfassens eines Whitepapers zur Erwachsenenbildung\
     \ und des Ermittelns von qualitativ hochwertigen Online-Lernressourcen in der\
-    \ Sprache der einzelnen Partner.\n\nÜbersetzung und Anpassung der Lernteam-Methodik\
-    \ und -Software in den Jahren 2019-20.\n\nAusbildung von bis zu 25 Lernteam-Organisator*innen\
+    \ Sprache der einzelnen Partner.\n- Übersetzung und Anpassung der Lernteam-Methodik\
+    \ und -Software in den Jahren 2019-20.\n- Ausbildung von bis zu 25 Lernteam-Organisator*innen\
     \ im Jahr 2020, die als Multiplikator*innen in jedem Land Trainingsworkshops durchführen\
-    \ werden\n\nDurchführung einer Reihe von Schulungsworkshops für neue Lernteammoderator*innen\
+    \ werden\n- Durchführung einer Reihe von Schulungsworkshops für neue Lernteammoderator*innen\
     \ im Jahr 2021, um in jedem der Partnerländer Lernteams in Bibliotheken anbieten\
     \ zu können."
 - q: Kann jeder ein Lernteam organisieren und moderieren?
