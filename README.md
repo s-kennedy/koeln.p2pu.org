@@ -1,4 +1,4 @@
-## Learning circle team template
+f## Learning circle team template
 
 This is a template site for creating sub sites for learning circle. It was built for other language learning circle communities. As such, the aim is to provide a complete set of tools + info for learners to participate in learning circles without needing to translate all P2PU materials.
 

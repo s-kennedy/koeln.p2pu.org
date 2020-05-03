@@ -25,18 +25,33 @@ section {
   padding-bottom: $padding-md;
 }
 
+#header-img {
+  clip-path: polygon(0 100%, 100% 80%, 100% 0, 0 0);
+  filter: brightness(50%);
+
+  &, img {
+    width: 100%;
+    height: 65vh;
+    object-fit: cover;
+  }
+}
+
 #page-header {
   position: relative;
-  color: #fff;
   overflow: hidden;
+  margin-top: -200px;
 
-  #header-img {
-    position: absolute;
-    filter: brightness(50%);
-    &, img {
-      width: 100%;
-    }
+  .order-1 {
+    order: 1;
+  }
 
+  .order-2 {
+    order: 2;
+  }
+
+  .embed-responsive {
+    border: 2px solid $white;
+    border-radius: 8px;
   }
 
   .header-text {
@@ -48,16 +63,25 @@ section {
 
   #intro-section {
     padding-bottom: 1em;
+
+    h1 {
+      min-height: 100px;
+      padding-right: 30px;
+      padding-left: 30px;
+    }
+
     .intro-text {
+      padding-top: 10px;
       > div {
-        padding: 40px;
-        background: $p2pu-blue;
-        color: $white;
+        padding: 30px;
       }
     }
 
     .video {
       width: 100%;
+      padding: 40px;
+      background: $p2pu-blue;
+      color: $white;
     }
   }
 }
@@ -153,10 +177,12 @@ footer {
   #page-header {
     padding-top: 0;
 
-    .container {
-      padding: 0;
-      margin: 0;
-      max-width: 100%;
+    .order-sm-1 {
+      order: 1;
+    }
+
+    .order-sm-2 {
+      order: 2;
     }
 
     #header-img {
@@ -176,13 +202,17 @@ footer {
     #intro-section {
       position: relative;
 
+      h1, h2 {
+        min-height: unset;
+      }
+
       .intro-text {
         position: relative;
         margin: 0;
-
         > div {
-          background: $p2pu-blue;
-          color: $white;
+          padding: 30px;
+          background: white;
+          border-radius: 8px;
         }
       }
     }
