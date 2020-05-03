@@ -7814,7 +7814,10 @@ section {
     #page-header #intro-section h1 {
       min-height: 100px;
       padding-right: 30px;
-      padding-left: 30px; }
+      padding-left: 30px;
+      font-size: calc(24px + 1vw);
+      line-height: 1.2;
+      margin-top: 0.5rem; }
     #page-header #intro-section .intro-text {
       padding-top: 10px; }
       #page-header #intro-section .intro-text > div {

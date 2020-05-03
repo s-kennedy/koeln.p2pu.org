@@ -68,6 +68,9 @@ section {
       min-height: 100px;
       padding-right: 30px;
       padding-left: 30px;
+      font-size: calc(24px + 1vw);
+      line-height: 1.2;
+      margin-top: 0.5rem;
     }
 
     .intro-text {
